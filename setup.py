@@ -6,6 +6,7 @@ setup(
     description="Statistics capture and saving",
     author="Daniel Grecoe",
     author_email="grecoe@microsoft.com",
+    url="https://github.com/microsoft/StatisticsTracker",
     packages=find_packages(),
     install_requires=["azure-cli-core", "azure-storage-blob"]
 )
